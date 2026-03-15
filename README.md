@@ -5,6 +5,9 @@
 - 📫 How to reach me : [ khan.nihal200@gmail.com ] pin me here will surely respond 
 - ⚡ Fun fact: Well i am a open minded simple guy , just pin me connect with me and you will love me 
 😂 .
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=newcoder-12)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=newcoder-12)
 <!---
 newcoder-12/newcoder-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
