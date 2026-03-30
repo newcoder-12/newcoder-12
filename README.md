@@ -52,8 +52,8 @@ open source, DevOps tools, web apps, or anything interesting.
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=newcoder-12&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=newcoder-12&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats-red-seven-17.vercel.app/api?username=newcoder-12&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats-red-seven-17.vercel.app/api/top-langs/?username=newcoder-12&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 ---
 
