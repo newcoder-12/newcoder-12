@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Nihal Khan (@newcoder-12)
+# 👋 Hey, I'm Nehal Khan (@newcoder-12)
 
 **Sales Executive by day · Cloud & DevOps learner by night**
 *Bangalore, India · Open to remote opportunities*
